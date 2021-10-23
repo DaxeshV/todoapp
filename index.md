@@ -1,37 +1,489 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DaxeshV/todoapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="https://toolsutilities.web.app/index_files/930237.svg" type="image/x-icon">
+  <meta name="description" content="Tools & Utilities Apps">
+  <title>Tools & Utilities Apps</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&amp;subset=latin">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+  <link rel="stylesheet" href="assets/bootstrap-material-design-font/css/material.css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/et-line-font-plugin/style.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/animate.css/animate.min.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+<div id="menu-0" custom-code="true"><section>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <nav class="navbar navbar-dropdown bg-color transparent navbar-fixed-top">
+        <div class="container">
 
-### Markdown
+            <div class="mbr-table">
+                <div class="mbr-table-cell">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+                    
+                        
+                        <a class="navbar-caption" href="https://play.google.com/store/apps/developer?id=Tools+%26+Utilities+Apps&hl=en&gl=us">Tools & Utilities Apps</a>
+                    
 
-```markdown
-Syntax highlighted code block
+                </div>
+                <div class="mbr-table-cell">
 
-# Header 1
-## Header 2
-### Header 3
+                    <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                        <div class="hamburger-icon"></div>
+                    </button>
 
-- Bulleted
-- List
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar">
+					<li class="nav-item">
+					<a class="nav-link link mbr-editable-menu-item" href="index.html#header3-k">Features</a></li>
+					<li class="nav-item">
+					<!--<a class="nav-link link mbr-editable-menu-item" href="index.html#pricing-table2-f">PRICES</a>-->
+					</li>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+                    <li class="nav-item dropdown open"><a class="nav-link link dropdown-toggle mbr-editable-menu-item" href="index.html#pricing-table2-f" data-toggle="dropdown-submenu" aria-expanded="true">MORE</a><div class="dropdown-menu">
+					<a class="dropdown-item mbr-editable-menu-item" href="https://play.google.com/store/apps/details?id=com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner">What's New</a>
+					<!--<a class="dropdown-item mbr-editable-menu-item" href="index.html#header3-k">Features</a>
+					<a class="dropdown-item mbr-editable-menu-item" href="#">Feedback</a>
+					<a class="dropdown-item mbr-editable-menu-item" href=".#">Forum</a>
+					-->
+					</div>
+					</li>
 
-[Link](url) and ![Image](src)
-```
+                  <li class="nav-item nav-btn"><a class="nav-link btn btn-white btn-white-outline mbr-editable-menu-item" href="https://apps.apple.com/US/app/id1524443123?l=en"><span class="mbri-apple mbr-iconfont mbr-iconfont-btn"></span>GET ON APP STORE</a></li><li class="nav-item nav-btn"><a class="nav-link btn btn-white btn-white-outline mbr-editable-menu-item" href="https://play.google.com/store/apps/details?id=com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner"><span class="mbri-android mbr-iconfont mbr-iconfont-btn"></span>GET ON PLAY MARKET</a></li>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+                    </ul>
+                    <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                        <div class="close-icon"></div>
+                    </button>
 
-### Jekyll Themes
+                </div>
+            </div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DaxeshV/todoapp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+        </div>
+    </nav>
 
-### Support or Contact
+</section>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<section class="mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar" id="header2-1" style="background-image: url(assets/images/f-mwo-dznni-averie-woodard-2000x2000.jpg);">
+
+    <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(10, 29, 77);">
+    </div>
+
+    <div class="mbr-table mbr-table-full">
+        <div class="mbr-table-cell">
+
+            <div class="container">
+                <div class="mbr-section row">
+                    <div class="mbr-table-md-up">
+                        
+                        
+                        
+
+                        <div class="mbr-table-cell col-md-5 content-size text-xs-center text-md-right">
+
+                            <h3 class="mbr-section-title display-2">PDF Scanner App</h3>
+
+                            <div class="mbr-section-text">
+                                <p>PDF Scanner app is a simple Camera document scanner app with high quality PDF output.&nbsp;</p>
+                            </div>
+
+                            <div class="mbr-section-btn"><a class="btn btn-black" href="https://apps.apple.com/US/app/id1524443123?l=en">IPHONE</a> <a class="btn btn-black" href="https://play.google.com/store/apps/details?id=com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner">ANDROID</a> </div>
+
+                        </div>
+                        <div class="mbr-table-cell mbr-valign-top mbr-left-padding-md-up col-md-7 image-size" style="width: 50%;">
+                            <div class="mbr-figure"><img src="assets/images/app-showcase.png"></div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!--
+    <div class="mbr-arrow mbr-arrow-floating hidden-sm-down" aria-hidden="true"> 
+	<a href="#header3-k"><i class="mbr-arrow-icon"></i></a>
+	</div>
+    -->
+</section>
+
+<!--
+
+
+<section class="mbr-section mbr-section__container article" id="header3-k" style="background-color: rgb(244, 244, 244); padding-top: 60px; padding-bottom: 0px;">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="mbr-section-title display-2">COOL APP OVERVIEW</h3>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section article mbr-section__container" id="content1-j" style="background-color: rgb(244, 244, 244); padding-top: 20px; padding-bottom: 20px;">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 lead">This app is so cool and great and helps to solve so many problems. Ut elementum hendrerit semper. In consectetur mauris ut mi vulputate, eget finibus dui dapibus. Donec porttitor interdum gravida. Vestibulum sagittis, ex vitae sollicitudin mattis, elit neque mattis augue, eget fringilla libero sem eget ante. Nulla non maximus quam.&nbsp;</div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-cards mbr-section mbr-section-nopadding" id="features1-e" style="background-color: rgb(244, 244, 244);">
+
+        
+
+    <div class="mbr-cards-row row striped">
+
+        <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><img src="assets/images/interface-screenshot0-1.jpg" class="card-img-top"></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Cool notifications</h4>
+                        <h5 class="card-subtitle">Boostrap</h5>
+                        <p class="card-text">Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><img src="assets/images/interface-screenshot2.jpg" class="card-img-top"></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Responsive</h4>
+                        <h5 class="card-subtitle">One of Bootstrap 4's big points</h5>
+                        <p class="card-text">One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><img src="assets/images/interface-screenshot1.jpg" class="card-img-top"></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Web Fonts</h4>
+                        <h5 class="card-subtitle">Google has a highly exhaustive list of fonts</h5>
+                        <p class="card-text">Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mbr-cards-col col-xs-12 col-lg-3" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img"><img src="assets/images/interface-screenshot3.jpg" class="card-img-top"></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Unlimited Sites</h4>
+                        <h5 class="card-subtitle">Mobirise gives you the freedom to develop</h5>
+                        <p class="card-text">Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+    </div>
+</section>
+
+<section class="mbr-section" id="msg-box4-6" style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;">
+
+    
+    <div class="container">
+        <div class="row">
+            <div class="mbr-table-md-up">
+
+              
+
+              <div class="mbr-table-cell col-md-5 text-xs-center text-md-right content-size">
+                  <h3 class="mbr-section-title display-2">A SHORT VIDEO TUTORIAL</h3>
+                  <div class="lead">
+
+                    <p>How and why you should try to use this great app.</p>
+
+                  </div>
+
+                  <div><a class="btn btn-black" href="#">IPHONE</a> <a class="btn btn-black" href="#">ANDROID</a></div>
+              </div>
+
+
+              
+
+
+              <div class="mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size" style="width: 50%;">
+                  <div class="mbr-figure"><iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/Tq7p44IA-1U?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0" width="1280" height="720" frameborder="0" allowfullscreen></iframe></div>
+              </div>
+
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-cards mbr-section mbr-section-nopadding" id="features4-i" style="background-color: rgb(244, 244, 244);">
+
+    
+
+    <div class="mbr-cards-row row">
+        <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img iconbox"><a href="https://mobirise.com" class="mbri-hearth mbr-iconfont mbr-iconfont-features4" style="color: rgb(233, 165, 211);"></a></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Made with love</h4>
+                        <h5 class="card-subtitle">Bootstrap 4 has been noted</h5>
+                        <p class="card-text">Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img iconbox"><a href="https://mobirise.com" class="mbri-globe-2 mbr-iconfont mbr-iconfont-features4" style="color: rgb(39, 170, 224);"></a></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Meet people everywhere</h4>
+                        <h5 class="card-subtitle">One of Bootstrap 4's big points</h5>
+                        <p class="card-text">One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.</p>
+                        
+                    </div>
+                </div>
+          </div>
+        </div>
+        <div class="mbr-cards-col col-xs-12 col-lg-4" style="padding-top: 80px; padding-bottom: 80px;">
+            <div class="container">
+                <div class="card cart-block">
+                    <div class="card-img iconbox"><a href="https://mobirise.com" class="mbri-smile-face mbr-iconfont mbr-iconfont-features4" style="color: rgb(193, 193, 193);"></a></div>
+                    <div class="card-block">
+                        <h4 class="card-title">Web Fonts</h4>
+                        <h5 class="card-subtitle">Google has a highly exhaustive list of fonts</h5>
+                        <p class="card-text">Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+        
+    </div>
+</section>
+
+<section class="mbr-section mbr-background" id="testimonials1-7" style="background-image: url(assets/images/mbr-2000x1333.jpg); padding-top: 120px; padding-bottom: 120px;">
+
+    <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(255, 255, 255);">
+    </div>
+
+        <div class="mbr-section mbr-section__container mbr-section__container--middle">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 text-xs-center">
+                        <h3 class="mbr-section-title display-2">WHAT OUR FANTASTIC USERS SAY</h3>
+                        <small class="mbr-section-subtitle">Shape your future web project with sharp design and refine coded functions.</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    <div class="mbr-testimonials mbr-section mbr-section-nopadding">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-xs-12 col-lg-4">
+
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block"><p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p></div>
+                        <div class="mbr-author card-footer">
+                            <div class="mbr-author-img"><img src="assets/images/ellejmi6dqy-abigail-sisson-160x160.jpg" class="img-circle"></div>
+                            <div class="mbr-author-name">Abanoub S.</div>
+                            
+                        </div>
+                    </div>
+                </div><div class="col-xs-12 col-lg-4">
+
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block"><p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p></div>
+                        <div class="mbr-author card-footer">
+                            <div class="mbr-author-img"><img src="assets/images/fcuj-bvjrrs-alicja-koczaska-160x160.jpg" class="img-circle"></div>
+                            <div class="mbr-author-name">Suffian A.</div>
+                            
+                        </div>
+                    </div>
+                </div><div class="col-xs-12 col-lg-4">
+
+                    <div class="mbr-testimonial card mbr-testimonial-lg">
+                        <div class="card-block"><p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p></div>
+                        <div class="mbr-author card-footer">
+                            <div class="mbr-author-img"><img src="assets/images/fqkbxo2nkq0-sticker-mule-160x160.jpg" class="img-circle"></div>
+                            <div class="mbr-author-name">Jhollman C.</div>
+                            
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="mbr-section" id="pricing-table2-f" style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;">
+
+    
+
+    <div class="mbr-section mbr-section__container mbr-section__container--middle">
+      <div class="container">
+          <div class="row">
+              <div class="col-xs-12 text-xs-center">
+                  <h3 class="mbr-section-title display-2">HOW MUCH DOES IT COST?</h3>
+                  <small class="mbr-section-subtitle">Pricing table with four columns and solid color background.</small>
+              </div>
+          </div>
+      </div>
+    </div>
+
+    <div class="mbr-section mbr-section-nopadding mbr-price-table">
+      <div class="row">
+            <div class="col-xs-12 col-md-6 col-xl-4">
+                <div class="mbr-plan card text-xs-center">
+                    <div class="mbr-plan-header card-block">
+                      
+                      <div class="card-title">
+                        <h3 class="mbr-plan-title">MONTHLY PLAN</h3>
+                        <small class="mbr-plan-subtitle">Description</small>
+                      </div>
+                      <div class="card-text">
+                          <div class="mbr-price">
+                            <span class="mbr-price-value">$</span>
+                            <span class="mbr-price-figure">1</span><small class="mbr-price-term">/mo.</small>
+                          </div>
+                          <small class="mbr-plan-price-desc">More details</small>
+                      </div>
+                    </div>
+                    <div class="mbr-plan-body card-block">
+                      <div class="mbr-plan-list"><ul class="list-group list-group-flush"><li class="list-group-item">32 GB storage</li><li class="list-group-item">Unlimited users</li><li class="list-group-item">15 GB bandwidth</li></ul></div>
+                      <div class="mbr-plan-btn"><a href="#" class="btn btn-black btn-black-outline">DEMO</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-6 col-xl-4">
+                <div class="mbr-plan card text-xs-center">
+                    <div class="mbr-plan-header card-block bg-primary">
+                      <div class="mbr-plan-label">HOT!</div>
+                      <div class="card-title">
+                        <h3 class="mbr-plan-title">QUARTERY PLAN</h3>
+                        <small class="mbr-plan-subtitle">Description</small>
+                      </div>
+                      <div class="card-text">
+                          <div class="mbr-price">
+                            <span class="mbr-price-value">$</span>
+                            <span class="mbr-price-figure">0.75</span><small class="mbr-price-term">/mo.</small>
+                          </div>
+                          <small class="mbr-plan-price-desc">More details</small>
+                      </div>
+                    </div>
+                    <div class="mbr-plan-body card-block">
+                      <div class="mbr-plan-list"><ul class="list-group list-group-flush"><li class="list-group-item">32 GB storage</li><li class="list-group-item">Unlimited users</li><li class="list-group-item">15 GB bandwidth</li></ul></div>
+                      <div class="mbr-plan-btn"><a href="#" class="btn btn-black btn-black-outline">DEMO</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-6 col-xl-4">
+                <div class="mbr-plan card text-xs-center">
+                    <div class="mbr-plan-header card-block">
+                      
+                      <div class="card-title">
+                        <h3 class="mbr-plan-title">ANNUAL PLAN</h3>
+                        <small class="mbr-plan-subtitle">Description</small>
+                      </div>
+                      <div class="card-text">
+                          <div class="mbr-price">
+                            <span class="mbr-price-value">$</span>
+                            <span class="mbr-price-figure">0.5</span><small class="mbr-price-term">/mo.</small>
+                          </div>
+                          <small class="mbr-plan-price-desc">More details</small>
+                      </div>
+                    </div>
+                    <div class="mbr-plan-body card-block">
+                      <div class="mbr-plan-list"><ul class="list-group list-group-flush"><li class="list-group-item">32 GB storage</li><li class="list-group-item">Unlimited users</li><li class="list-group-item">15 GB bandwidth</li></ul></div>
+                      <div class="mbr-plan-btn"><a href="#" class="btn btn-black btn-black-outline">DEMO</a></div>
+                    </div>
+                </div>
+            </div>
+            
+          </div>
+    </div>
+
+</section>
+
+<section class="mbr-section article mbr-parallax-background" id="msg-box3-g" style="background-image: url(assets/images/mbr-5.jpg); padding-top: 120px; padding-bottom: 120px;">
+
+    <div class="mbr-overlay" style="opacity: 0.4; background-color: rgb(255, 255, 255);">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-xs-center">
+                <h3 class="mbr-section-title display-2">DOWNLOAD NOW</h3>
+                
+                <div><a class="btn btn-black" href="#">IPHONE</a> <a class="btn btn-black" href="#">ANDROID</a></div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+-->
+
+<section class="mbr-section article" id="msg-box22-g" style="padding-top: 40px; padding-bottom: 20px;">
+
+    <div class="mbr-overlay" style="background-color: #fff0f0;">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-xs-center">
+                <p>(c) 2021<a  href="https://play.google.com/store/apps/developer?id=Tools+%26+Utilities+Apps&hl=en&gl=us" style="color:#333;text-decoration:underline;"> Tool & Utitlites Apps </a></p>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smooth-scroll/smooth-scroll.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
+  <script src="assets/jarallax/jarallax.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  
+  <input name="animation" type="hidden">
+  </body>
+</html>
